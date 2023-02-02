@@ -168,10 +168,10 @@ Howdy <img src="https://user-images.githubusercontent.com/1303154/88677602-1635b
 
 
  
-  ### Professional Certificate
+  <!-- ### Professional Certificate
 
 <div align="left">
     <img width="30%" height="20%" src="./assets/bitdegree-certificate-1030477%20(1).jpeg" height="175px"/>
-</div>
+</div> -->
 
 
